@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<buku>
+	<buku>
+		<id_buku>6</id_buku>
+		<judul>Mentari</judul>
+		<penulis>Vinaya</penulis>
+		<tahun_terbit>2016</tahun_terbit>
+	</buku>
+	<buku>
+		<id_buku>7</id_buku>
+		<judul>Summer Spring</judul>
+		<penulis>Ashaima-va</penulis>
+		<tahun_terbit>2017</tahun_terbit>
+	</buku>
+	<buku>
+		<id_buku>8</id_buku>
+		<judul>Pierre</judul>
+		<penulis>Gustavo Mazali</penulis>
+		<tahun_terbit>2010</tahun_terbit>
+	</buku>
+	<buku>
+		<id_buku>9</id_buku>
+		<judul>Piknik Seru</judul>
+		<penulis>Anita Hairunnisa</penulis>
+		<tahun_terbit>2009</tahun_terbit>
+	</buku>
+	<buku>
+		<id_buku>10</id_buku>
+		<judul>Beruang Kutub dan Panda</judul>
+		<penulis>Matther J.Baek</penulis>
+		<tahun_terbit>2008</tahun_terbit>
+	</buku>
+</buku>
